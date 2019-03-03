@@ -1,11 +1,3 @@
-# notes
-
-- [cortex-m quickstart](https://docs.rs/cortex-m-quickstart/0.2.7/cortex_m_quickstart/) newer than [Rust Embedded Book](https://rust-embedded.github.io/book)?
-- [stm32f1xx_hal](https://docs.rs/stm32f1xx-hal/0.2.0/stm32f1xx_hal/) newer than the HAL from embedded rust book?
-- [Real Time For the Masses](https://japaric.github.io/cortex-m-rtfm/book/en/by-example/tasks.html) 
-- [domensioned](https://github.com/paholg/dimensioned) unit types
-- [nalgebra](https://github.com/rustsim/nalgebra) linear algebra
-
 # `cortex-m-quickstart`
 
 > A template for building applications for ARM Cortex-M microcontrollers

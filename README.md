@@ -1,3 +1,5 @@
+- [no-std linear algebra](https://www.nalgebra.org/rustdoc/nalgebra/index.html)
+
 # `cortex-m-quickstart`
 
 > A template for building applications for ARM Cortex-M microcontrollers
